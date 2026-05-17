@@ -59,3 +59,4 @@ A Mini Metro–style simulation where you place stations at grid intersections a
 This project’s code and file structure, engine notes, and common development tasks are documented in ./AGENTS.md. Refer there when modifying game logic, renderers, or screens.
 
 # gameMetro
+Live demo https://game-metro.vercel.app/
